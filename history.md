@@ -1,3 +1,8 @@
+---
+layout: post
+title: Titanic History
+permalink: /history
+---
 The sinking of the Titanic is one of the most infamous maritime disasters in history. Here's a summary of what happened:
 
 - Construction and Maiden Voyage: The RMS Titanic, a British luxury passenger liner, was constructed in the early 20th century by the White Star Line. It was hailed as one of the most luxurious and technologically advanced ships of its time. On April 10, 1912, the Titanic embarked on its maiden voyage from Southampton, England, bound for New York City, USA.
