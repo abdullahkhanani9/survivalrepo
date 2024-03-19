@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Editor
+title: Predictor Tool
 permalink: /predictor
 ---
 
