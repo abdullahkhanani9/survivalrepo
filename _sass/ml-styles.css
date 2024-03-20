@@ -1,0 +1,38 @@
+input{
+	width: 50%;
+	height: 20px;
+	background: #e0dede;
+	background: #101010;
+	color: rgb(216, 138, 138);
+	justify-content: center;
+	display: flex;
+	margin: 18px auto;
+@@ -60,6 +61,8 @@ input{
+select{
+	width: 50%;
+	height: 20px;
+	background: #101010;
+	color: grey;
+	justify-content: center;
+	display: flex;
+	margin: 18px auto;
+@@ -73,8 +76,8 @@ option{
+	color: grey;
+}
+button{
+	width: 60%;
+	height: 40px;
+	width: 55%;
+	height: 35px;
+	margin: 10px auto;
+	justify-content: center;
+	display: block;
+@@ -94,7 +97,7 @@ button:hover{
+}
+.login{
+	height: 460px;
+	background: #eee;
+	background: #101010;
+	border-radius: 60% / 10%;
+	transform: translateY(-180px);
+	transition: .8s ease-in-out;
